@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/120396905/235293798-9e540d6f-f5e1-4c56-9ec1-d40ae5ad4590.png)
 ## Beginner Python Projects:
 
 The tutorial projects in this article are meant to provide novice Python programmers practise and boost their self-assurance. They may be created using the fundamental Python syntax and modules, and they include games, generators, and simple applications.
