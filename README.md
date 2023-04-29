@@ -2,9 +2,11 @@
 
 The tutorial projects in this article are meant to provide novice Python programmers practise and boost their self-assurance. They may be created using the fundamental Python syntax and modules, and they include games, generators, and simple applications.
 
-# Mad Libs Generator
+# [Mad Libs Generator](https://gist.github.com/ajnarayan/718d7fea9692f8442c20)
 
-ProjectMad Libs GeneratorDescription:This project involves building a program that generates a silly story by prompting users to provide various types of words. The final output is a story with the user's words filled in.Libraries Used:NoneProcess:Use input() function to get user input and format the story using string interpolation.Time Required:2-3 hrsPurpose:Gain experience with basic Python syntax, string manipulation, and input/output.Additional Features:Allow users to save and share their completed Mad Libs with friends via social media or email.Mad Libs Generator
+<!-- wp:table {"gradient":"very-light-gray-to-cyan-bluish-gray","className":"is-style-stripes"} -->
+<figure class="wp-block-table is-style-stripes"><table class="has-very-light-gray-to-cyan-bluish-gray-gradient-background has-background"><thead><tr><th>Project</th><th>Mad Libs Generator</th></tr></thead><tbody><tr><td><strong>Description</strong>:</td><td>This project involves building a program that generates a silly story by prompting users to provide various types of words. The final output is a story with the user's words filled in.</td></tr><tr><td><strong>Libraries Used</strong>:</td><td>None</td></tr><tr><td><strong>Process:</strong></td><td>Use input() function to get user input and format the story using string interpolation.</td></tr><tr><td><strong>Time Required:</strong></td><td>2-3 hrs</td></tr><tr><td><strong>Purpose:</strong></td><td>Gain experience with basic Python syntax, string manipulation, and input/output.</td></tr><tr><td><strong>Additional Features:</strong></td><td>Allow users to save and share their completed Mad Libs with friends via social media or email.</td></tr><tr><td></td><td></td></tr></tbody></table><figcaption class="wp-element-caption">Mad Libs Generator</figcaption></figure>
+<!-- /wp:table -->
 
 # Guess the Number Game
 
